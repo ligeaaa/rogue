@@ -1,0 +1,1 @@
+A simple roguelike implemented by following the [RoguelikeDev TCOD tutorial (v2)](https://rogueliketutorials.com/tutorials/tcod/v2/). The project is intended as a hands-on way to explore procedural generation, game loops, and basic roguelike mechanics.
